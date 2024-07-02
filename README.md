@@ -1,22 +1,28 @@
-<h1 align="left"> Hey! I'm Ian :wave: </h1> 
+<h1 align="center"> Hey! I'm Ian :wave: </h1> 
 
 <!------------ Start Contact Information -------------->
+<br>
 <p align="center">
   <a href="https://linkedin.com/in/iancotosoto" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="iancotosoto"/></a>
-    <a href="https://linkedin.com/in/iancotosoto" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="iancotosoto"/></a>
+    <a href = "mailto:iancotosoto@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@iancotosoto"  /></a>
+  </p>
 </p>
+<br>
 <!------------ End Contact Information -------------->
 
 <!------------ Start Intro -------------->
+<br>
 <h2 align="left"> About me </h2> 
 <ul>
   <li>:school: I am a <b>Computer Enginner Student</b> at <a href="https://www.tec.ac.cr/">Instituto Tecnólogico de Costa Rica</a> in my third year.</li>
   <li>:student: I’m currently learning more about <b>backend</b> and <b>cybersecurity</b>.</li>
   <li>:thinking: I’m currently open for a <b>intership opportunity</b>, this is my <a href="https://drive.google.com/file/d/1mtwV7KGm1H1Zd1Q9sik-eqMbbEQA1WOA/view?usp=sharing">resume</a>.</li>
 </ul>
+<br>
 <!------------ End Intro -------------->
 
 <!------------ Start Technologies -------------->
+<br>
 <h2 align="left"> :computer: Technologies </h2>
 
 <h3> :bulb: Tech Stack </h3>
