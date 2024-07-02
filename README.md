@@ -1,11 +1,11 @@
-## Hi there 👋
+<h1 align="center"> Hey! I'm Ian :wave: </h1> 
 
 <!------------ Start Intro -------------->
-<br><br>
-- :school: I am a `Computer Enginner Student` at [Instituto Tecnólogico de Costa Rica](https://www.tec.ac.cr/) in my third year.
-- :student: I’m currently learning more about `backend` and `cybersecurity`.
-- :thinking: I’m currently open for a `intership`, this is my [RESUME](https://drive.google.com/file/d/1mtwV7KGm1H1Zd1Q9sik-eqMbbEQA1WOA/view?usp=sharing).
-<br>
+<ul>
+  <li>:school: I am a `Computer Enginner Student` at [Instituto Tecnólogico de Costa Rica](https://www.tec.ac.cr/) in my third year.</li>
+  <li>:student: I’m currently learning more about `backend` and `cybersecurity`.</li>
+  <li>:thinking: I’m currently open for a `intership`, this is my [RESUME](https://drive.google.com/file/d/1mtwV7KGm1H1Zd1Q9sik-eqMbbEQA1WOA/view?usp=sharing).</li>
+</ul>
 <!------------ End Intro -------------->
 
 <!------------ Start Technologies -------------->
@@ -28,7 +28,7 @@
 <h3> :tools: Version Control and Tools </h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?git,github,linux,bash,docker,vscode,figma,ai,ps&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=git,github,linux,bash,docker,vscode,figma,ai,ps&theme=dark"/>
   </a>
 </p>
 <br>
