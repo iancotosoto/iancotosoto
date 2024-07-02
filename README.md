@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,astro,flask,postman&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git,github,linux,docker,figma&theme=dark)](https://skillicons.dev)
+<!------------ Start Technologies -------------->
+<h2> :bulb: Technologies </h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,c,cs,cpp,mysql,postgres,mongodb,redis,html,css,js,astro,flask,postman,git,github,linux,bash,docker,vscode,figma,ai,ps&theme=dark&perline=10" />
+  </a>
+</p>
+<br>
+<!------------ End Technologies -------------->
