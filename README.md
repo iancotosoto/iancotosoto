@@ -1,13 +1,14 @@
-<h1 align="center"> Hey! I'm Ian :wave: </h1> 
+<h1 align="left"> Hey! I'm Ian :wave: </h1> 
 
 <!------------ Start Contact Information -------------->
 <p align="center">
   <a href="https://linkedin.com/in/iancotosoto" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="iancotosoto"/></a>
-  <a href = "mailto:iancotosoto@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@iancotosoto" /></a>
+    <a href="https://linkedin.com/in/iancotosoto" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="iancotosoto"/></a>
 </p>
 <!------------ End Contact Information -------------->
 
 <!------------ Start Intro -------------->
+<h2 align="left"> About me </h2> 
 <ul>
   <li>:school: I am a <b>Computer Enginner Student</b> at <a href="https://www.tec.ac.cr/">Instituto Tecnólogico de Costa Rica</a> in my third year.</li>
   <li>:student: I’m currently learning more about <b>backend</b> and <b>cybersecurity</b>.</li>
@@ -16,7 +17,7 @@
 <!------------ End Intro -------------->
 
 <!------------ Start Technologies -------------->
-<h2> :computer: Technologies </h2>
+<h2 align="left"> :computer: Technologies </h2>
 
 <h3> :bulb: Tech Stack </h3>
 <p align="left">
