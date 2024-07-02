@@ -2,9 +2,9 @@
 
 <!------------ Start Intro -------------->
 <ul>
-  <li>:school: I am a `Computer Enginner Student` at [Instituto Tecnólogico de Costa Rica](https://www.tec.ac.cr/) in my third year.</li>
-  <li>:student: I’m currently learning more about `backend` and `cybersecurity`.</li>
-  <li>:thinking: I’m currently open for a `intership`, this is my [RESUME](https://drive.google.com/file/d/1mtwV7KGm1H1Zd1Q9sik-eqMbbEQA1WOA/view?usp=sharing).</li>
+  <li>:school: I am a <b>Computer Enginner Student</b> at <a href="https://www.tec.ac.cr/">Instituto Tecnólogico de Costa Rica</a> in my third year.</li>
+  <li>:student: I’m currently learning more about <b>backend</b> and <b>cybersecurity</b>.</li>
+  <li>:thinking: I’m currently open for a <b>intership opportunity</b>, this is my <a href="[https://www.tec.ac.cr/](https://drive.google.com/file/d/1mtwV7KGm1H1Zd1Q9sik-eqMbbEQA1WOA/view?usp=sharing)">resume</a>.</li>
 </ul>
 <!------------ End Intro -------------->
 
