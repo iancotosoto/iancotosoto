@@ -11,7 +11,6 @@
 <!------------ End Contact Information -------------->
 
 <!------------ Start Intro -------------->
-<br>
 <h2 align="left"> About me </h2> 
 <ul>
   <li>:school: I am a <b>Computer Enginner Student</b> at <a href="https://www.tec.ac.cr/">Instituto Tecnólogico de Costa Rica</a> in my third year.</li>
@@ -22,7 +21,6 @@
 <!------------ End Intro -------------->
 
 <!------------ Start Technologies -------------->
-<br>
 <h2 align="left"> :computer: Technologies </h2>
 
 <h3> :bulb: Tech Stack </h3>
