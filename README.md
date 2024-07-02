@@ -25,10 +25,11 @@
   </a>
 </p>
 
-<h3> :d: Version Control and Tools </h3>
+<h3> :tools: Version Control and Tools </h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?git,github,linux,bash,docker,vscode,figma,ai,ps&theme=dark"/>
   </a>
 </p>
+<br>
 <!------------ End Technologies -------------->
