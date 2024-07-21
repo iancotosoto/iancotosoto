@@ -14,7 +14,6 @@
 <h2 align="left"> :bulb: About me </h2> 
 <ul>
   <li>:school: I am a <b>Software Engineering student</b> at <a href="https://www.tec.ac.cr/">Tecnológico de Costa Rica</a> in my third year.</li>
-  <li>:student: I’m currently learning more about <b>data analysis</b>, <b>backend</b> and <b>cybersecurity</b>.</li>
   <li>:thinking: I’m currently open for an <b>internship opportunity</b>, this is my resume in <a href="https://drive.google.com/file/d/1CcSY26Uyb1N94tt4HQkzoBm3VqRMZ5O2/view?usp=sharing">English</a> and <a href="https://drive.google.com/file/d/1SqRIzeZ4tR7cDpg8gFUJMeMk4zixxAvC/view?usp=sharing">Spanish</a>.</li>
 </ul>
 <br>
