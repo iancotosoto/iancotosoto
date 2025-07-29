@@ -13,7 +13,7 @@
 <!------------ Start Intro -------------->
 <h2 align="left"> :bulb: About me </h2> 
 <ul>
-  <li>:school: I am a <b>Software Engineering student</b> at <a href="https://www.tec.ac.cr/">Tecnológico de Costa Rica</a> in my third year.</li>
+  <li>:school: I am a <b>Software Engineering student</b> at <a href="https://www.tec.ac.cr/">Tecnológico de Costa Rica</a> in my last year.</li>
 </ul>
 <br>
 <!------------ End Intro -------------->
